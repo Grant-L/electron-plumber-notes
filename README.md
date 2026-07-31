@@ -26,3 +26,8 @@ embarrassment.
 ## Sources
 
 All on-camera citations live in [`sources.bib`](sources.bib).
+
+## License
+
+Notes are licensed [CC BY-NC-ND 4.0](LICENSE.md) — share with attribution;
+no commercial use; no derivatives.
